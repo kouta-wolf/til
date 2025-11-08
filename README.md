@@ -9,4 +9,7 @@ Today I Learned(今日学習したこと)をGithubを使ってまとめてみま
 - 大きなトピックがひしめくようになった時に分離します。
 
 ### git/
-- git、github関係をまとめます
+- git、github関係をまとめます。
+
+### linux/
+- linux関係をまとめます。
