@@ -1,0 +1,13 @@
+{
+  "sqltools.connections": [
+    {
+      "name": "dvdrental_practice",
+      "driver": "PostgreSQL",
+      "server": "localhost",
+      "port": 5433,
+      "database": "dvdrental",
+      "username": "practice",
+      "password": "practice"
+    }
+  ]
+}
