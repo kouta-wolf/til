@@ -1,4 +1,5 @@
-# sortディレクトリの中身をsortedディレクトリに移し、拡張子ごとにフォルダを作りファイルを移動する
+# sortディレクトリの中にあるファイル群を拡張子を参照してsortedフォルダにそれぞれ作成し、ファイルを移動する
+
 require 'fileutils'
 
 files = Dir.children('sort')
