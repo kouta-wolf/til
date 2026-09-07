@@ -9,5 +9,6 @@
       "username": "practice",
       "password": "practice"
     }
-  ]
+  ],
+  "remote.autoForwardPortsFallback": 0
 }
